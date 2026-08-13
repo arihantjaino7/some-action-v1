@@ -1,0 +1,11 @@
+# Added by Sentinels -- a starting point covering common secret and
+# dependency paths. Review and extend for this project's own stack.
+.env
+.env.local
+*.pem
+*.key
+id_rsa
+node_modules/
+__pycache__/
+*.pyc
+.venv/
